@@ -1,0 +1,18 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "defination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "dict": "./commands.js"
+  },
+  "dependencies": {
+    "async": "^3.1.1",
+    "request": "^2.88.0"
+  }
+}
